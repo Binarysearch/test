@@ -15,5 +15,6 @@ public class TestProject {
      */
     public static void main(String[] args) {
         ClassB.go();
+        System.out.println("Yolo");
     }
 }
